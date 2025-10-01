@@ -25,19 +25,20 @@ It is deployed as an interactive **Streamlit web application**, where users can 
 
 ## 🌐 Live Demo
 🔗 Click here to try the app  
-👉 [Loan Approval Prediction App](https://your-streamlit-app-link.streamlit.app/)  
+👉 [Loan Approval Prediction App](https://loan-approval-prediction-hx7pjmzhzsngasng8mcjea.streamlit.app/)  
 
 ---
 
 ## 📊 Results
 - Achieved strong performance with **XGBoost**  
 - Predictions are based on features such as:  
-  - Applicant Income  
-  - Loan Amount  
-  - Credit History  
-  - Education  
-  - Employment Status  
-  - Dependents  
+  - Age
+  - Income  
+  - Assets  
+  - Credit Score  
+  - Dept To Income Ration  
+  - Existing Loan
+  - Criminal Record
 
 ---
 
